@@ -1,0 +1,15 @@
+Métrica Distância,Método Linkage,Código Métrica,Código Método,Correlação Cofenética
+Distância de Mahalanobis,Ligação por Média (UPGMA),mahalanobis,average,0.7758990063737486
+Distância Euclidiana,Ligação por Média (UPGMA),euclidean,average,0.7623893333905203
+Distância de Manhattan (Cityblock),Ligação por Média (UPGMA),manhattan,average,0.7612308494971997
+Distância Euclidiana,Ligação Centróide (UPGMC),euclidean,centroid,0.7517409305020581
+Distância de Mahalanobis,Ligação Simples (Single/KNN),mahalanobis,single,0.7409861999802181
+Distância de Manhattan (Cityblock),Ligação Simples (Single/KNN),manhattan,single,0.678186518322381
+Distância Euclidiana,Ligação Completa (Complete),euclidean,complete,0.6209449446353212
+Distância Euclidiana,Ligação Simples (Single/KNN),euclidean,single,0.6094003499280707
+Distância de Mahalanobis,Ligação Completa (Complete),mahalanobis,complete,0.6075839536231032
+Distância de Mahalanobis,Ligação por Média Ponderada (WPGMA),mahalanobis,weighted,0.5928220241959363
+Distância de Manhattan (Cityblock),Ligação por Média Ponderada (WPGMA),manhattan,weighted,0.5875880522225323
+Distância Euclidiana,Ligação por Média Ponderada (WPGMA),euclidean,weighted,0.5732543932210807
+Distância Euclidiana,Método de Ward,euclidean,ward,0.5380934353221046
+Distância de Manhattan (Cityblock),Ligação Completa (Complete),manhattan,complete,0.484028078591229
